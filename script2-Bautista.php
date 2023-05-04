@@ -3,21 +3,21 @@
  * Script2 para la Tarea 05 - DAW. Incluye la Clase Calculadora.
  * @author Profesorado
  * @author José A. Bautista Sebastiao
- * @version 1.0
+ * @version 2.0
  * @package Application
  *
  */
  
  /**
  * Clase Calculadora. Incluye cuatro funciones para realizar cálculos matemáticos: suma, resta, multiplicación y división.
- * @version 1.0
+ * @version 2.0
  *
  */
 class Calculadora {
   
   /**
   * Función sumar. Realiza la suma de dos números enteros.
-  * @version 1.0
+  * @version 2.0
   * @param int $num1 Primer sumando
   * @param int $num2 Segundo sumando
   * @return int Resultado
@@ -28,7 +28,7 @@ class Calculadora {
 
 /*
   * Función restar. Realiza la resta de dos números enteros.
-  * @version 1.0
+  * @version 2.0
   * @param int $num1 Minuendo
   * @param int $num2 Sustraendo
   * @return int Resta
@@ -39,7 +39,7 @@ class Calculadora {
 
 /**
   * Función multiplicar. Realiza la multiplicación de dos números enteros.
-  * @version 1.0
+  * @version 2.0
   * @param int $num1 Primer factor
   * @param int $num2 Segundo factor
   * @return int Producto
@@ -50,7 +50,7 @@ class Calculadora {
 
 /**
   * Función dividir. Realiza la división de dos númeroes enteros.
-  * @version 1.0
+  * @version 2.0
   * @param int $num1 Dividendo
   * @param int $num2 Divisor
   * @return float División  
